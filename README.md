@@ -32,18 +32,9 @@ For more details, the final report can be found at Assets.
 
 ## References
 
-[1] Draief, M., & Massouli, L. (2010). Epidemics and rumours in complex networks. Cambridge
-University Press.
-[2] Cori, A., Ferguson, N. M., et al. (2013). A new framework and software to estimate time-
-varying reproduction numbers during epidemics. American Journal of Epidemiology, 178(9), 1505-
-1512.
-[3] Pascal, B., Abry, P., et al. (2022). Nonsmooth convex optimization to estimate the Covid-19
-reproduction number space-time evolution with robustness against low-quality data. IEEE Tran-
-sactions on Signal Processing.
-[4] Amdaoud, M., Arcuri, G., & Levratto, N. (2020). Covid-19 : analyse spatiale de l’influence des
-facteurs socio-économiques sur la prévalence et les conséquences de l’épidémie dans les départements
-français.
-[5] Ives, A. R., & Bozzuto, C. (2020). State-by-State estimates of R0 at the start of COVID-19
-outbreaks in the USA.
-[6] Fowe, E. P. (2022). Analyse comparative et de cohérence entre les modèles statistiques et par
-compartiments sur la prédiction des cas d’infections et décès de la COVID-19 au Québec.
+- [1] Draief, M., & Massouli, L. (2010). Epidemics and rumours in complex networks. Cambridge University Press.
+- [2] Cori, A., Ferguson, N. M., et al. (2013). A new framework and software to estimate time- varying reproduction numbers during epidemics. American Journal of Epidemiology, 178(9), 1505- 1512.
+- [3] Pascal, B., Abry, P., et al. (2022). Nonsmooth convex optimization to estimate the Covid-19 reproduction number space-time evolution with robustness against low-quality data. IEEE Tran- sactions on Signal Processing.
+- [4] Amdaoud, M., Arcuri, G., & Levratto, N. (2020). Covid-19 : analyse spatiale de l’influence des facteurs socio-économiques sur la prévalence et les conséquences de l’épidémie dans les départements français.
+- [5] Ives, A. R., & Bozzuto, C. (2020). State-by-State estimates of R0 at the start of COVID-19 outbreaks in the USA.
+- [6] Fowe, E. P. (2022). Analyse comparative et de cohérence entre les modèles statistiques et par compartiments sur la prédiction des cas d’infections et décès de la COVID-19 au Québec.
